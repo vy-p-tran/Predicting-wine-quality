@@ -7,6 +7,8 @@ The goal of the project is to predict wine quality based on physicochemical data
 
 ### Link to Shiny app
 https://vyptran.shinyapps.io/Wine-Quality-Prediction/
+### Link to video
+https://youtu.be/vxcyICBmnJw
 ### Requirements
 * For Shiny app: package Shiny
 * For  training and testing the model: packages dplyr, caret, and glmnet.
