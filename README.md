@@ -6,3 +6,4 @@ https://vyptran.shinyapps.io/Wine-Quality-Prediction/
 ### Requirements
 * For Shiny app: package Shiny
 * For  training and testing the model: packages dplyr, caret, and glmnet.
+* All analyses were done with R (version 3.6.2)
